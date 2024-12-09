@@ -60,7 +60,7 @@ format:
 5+7
 ```
 
-[1] 12
+\[1\] 12
 
 | You are amazing!
 
@@ -101,7 +101,7 @@ x<-5+7
 x
 ```
 
-[1] 12
+\[1\] 12
 
 | All that practice is paying off!
 
@@ -119,7 +119,7 @@ y <- x-3
 y
 ```
 
-[1] 9
+\[1\] 9
 
 | Great job!
 
@@ -136,7 +136,7 @@ y
 c(1.1,9,3.14)
 ```
 
-[1] 1.10 9.00 3.14
+\[1\] 1.10 9.00 3.14
 
 | Try again. Getting it right on the first try is boring
 | anyway! Or, type info() for more options.
@@ -173,7 +173,7 @@ z <- c(1.1, 9, 3.14)
 z
 ```
 
-[1] 1.10 9.00 3.14
+\[1\] 1.10 9.00 3.14
 
 | You nailed it! Good job!
 
@@ -183,7 +183,7 @@ z
 c(z, 555, z)
 ```
 
-[1] 1.10 9.00 3.14 555.00 1.10 9.00 3.14
+\[1\] 1.10 9.00 3.14 555.00 1.10 9.00 3.14
 
 | Nice work!
 
@@ -193,7 +193,7 @@ c(z, 555, z)
 z*2+100
 ```
 
-[1] 102.20 118.00 106.28
+\[1\] 102.20 118.00 106.28
 
 | All that practice is paying off!
 
@@ -211,7 +211,7 @@ z*2+100
 sqrt(z-1)
 ```
 
-[1] 0.3162278 2.8284271 1.4628739
+\[1\] 0.3162278 2.8284271 1.4628739
 
 | Nice try, but that's not exactly what I was hoping
 | for. Try again. Or, type info() for more options.
@@ -249,7 +249,7 @@ my_sqrt<-sqrt(z-1)
 my_sqrt
 ```
 
-[1] 0.3162278 2.8284271 1.4628739
+\[1\] 0.3162278 2.8284271 1.4628739
 
 | You are quite good my friend!
 
@@ -279,7 +279,7 @@ my_div <- z / my_sqrt
 my_div
 ```
 
-[1] 3.478505 3.181981 2.146460
+\[1\] 3.478505 3.181981 2.146460
 
 | That's correct!
 
@@ -301,7 +301,7 @@ my_div
 c(1,2,3,4) + c(0,10)
 ```
 
-[1] 1 12 3 14
+\[1\] 1 12 3 14
 
 | You are amazing!
 
@@ -315,7 +315,7 @@ c(1,2,3,4) + c(0,10)
 c(1,2,3,4) + c(0,10,100)
 ```
 
-[1] 1 12 103 4 Предупреждение: В c(1, 2, 3, 4) + c(0, 10, 100) : длина большего объекта не является произведением длины меньшего объекта
+\[1\] 1 12 103 4 Предупреждение: В c(1, 2, 3, 4) + c(0, 10, 100) : длина большего объекта не является произведением длины меньшего объекта
 
 | Excellent work!
 
@@ -336,7 +336,7 @@ c(1,2,3,4) + c(0,10,100)
 z*2 +1000
 ```
 
-[1] 1002.20 1018.00 1006.28
+\[1\] 1002.20 1018.00 1006.28
 
 | Great job!
 
@@ -350,7 +350,7 @@ z*2 +1000
 my_div
 ```
 
-[1] 3.478505 3.181981 2.146460
+\[1\] 3.478505 3.181981 2.146460
 
 | You are doing so well!
 
@@ -381,7 +381,7 @@ my_div
 getwd()
 ```
 
-[1] "C:/Users/qq/Documents"
+\[1\] "C:/Users/qq/Documents"
 
 | You are amazing!
 
@@ -391,7 +391,7 @@ getwd()
 ls()
 ```
 
-[1] "my_div" "my_sqrt" "x" "y" "z"
+\[1\] "my_div" "my_sqrt" "x" "y" "z"
 
 | You're the best!
 
@@ -413,7 +413,7 @@ x <- 9
 ls()
 ```
 
-[1] "my_div" "my_sqrt" "x" "y" "z"
+\[1\] "my_div" "my_sqrt" "x" "y" "z"
 
 | You are really on a roll!
 
@@ -423,7 +423,7 @@ ls()
 dir()
 ```
 
-[1] "A central processing unit.docx" [2] "Application programs.docx" [3] "CURSACH_C+++" [4] "Default.rdp" [5] "desktop.ini" [6] "Fax" [7] "foockingc" [8] "I would like to talk a programming language called Python.docx" [9] "IISExpress" [10] "League of Legends" [11] "matlog1.pdf" [12] "matlog2.pdf" [13] "matlog3.pdf" [14] "matlog5.pdf" [15] "matlog6.pdf" [16] "mattlog4.pdf" [17] "My Games" [18] "My Web Sites" [19] "NBGI" [20] "Networks.docx" [21] "Obsidian Vault" [22] "pr.rdf" [23] "Python Scripts" [24] "qq.properties" [25] "qq.rdf" [26] "Scanned Documents" [27] "UltraVNC" [28] "Visual Studio 2022" [29] "Zoom" [30] "Аудиозаписи" [31] "Криптография1" [32] "Криптография2" [33] "Криптография3" [34] "Криптография4" [35] "Криптография5" [36] "Л4.docx" [37] "Мои видеозаписи" [38] "мои рисунки" [39] "Моя музыка" [40] "Настраиваемые шаблоны Office" [41] "Педагогика в системе педагогических наук, основные категории..pptx" [42] "Педагогика.docx" [43] "Психология межгрупповых отношений.docx" [44] "Психология межгрупповых отношений.pptx" [45] "Содержание воспитательного процесса и его основные характеристики.docx" [46] "Содержание воспитательного процесса и его основные характеристики.pptx" [47] "Что такое безопасность.docx"
+\[1\] "A central processing unit.docx" \[2\] "Application programs.docx" \[3\] "CURSACH_C+++" \[4\] "Default.rdp" \[5\] "desktop.ini" \[6\] "Fax" \[7\] "foockingc" \[8\] "I would like to talk a programming language called Python.docx" \[9\] "IISExpress" \[10\] "League of Legends" \[11\] "matlog1.pdf" \[12\] "matlog2.pdf" \[13\] "matlog3.pdf" \[14\] "matlog5.pdf" \[15\] "matlog6.pdf" \[16\] "mattlog4.pdf" \[17\] "My Games" \[18\] "My Web Sites" \[19\] "NBGI" \[20\] "Networks.docx" \[21\] "Obsidian Vault" \[22\] "pr.rdf" \[23\] "Python Scripts" \[24\] "qq.properties" \[25\] "qq.rdf" \[26\] "Scanned Documents" \[27\] "UltraVNC" \[28\] "Visual Studio 2022" \[29\] "Zoom" \[30\] "Аудиозаписи" \[31\] "Криптография1" \[32\] "Криптография2" \[33\] "Криптография3" \[34\] "Криптография4" \[35\] "Криптография5" \[36\] "Л4.docx" \[37\] "Мои видеозаписи" \[38\] "мои рисунки" \[39\] "Моя музыка" \[40\] "Настраиваемые шаблоны Office" \[41\] "Педагогика в системе педагогических наук, основные категории..pptx" \[42\] "Педагогика.docx" \[43\] "Психология межгрупповых отношений.docx" \[44\] "Психология межгрупповых отношений.pptx" \[45\] "Содержание воспитательного процесса и его основные характеристики.docx" \[46\] "Содержание воспитательного процесса и его основные характеристики.pptx" \[47\] "Что такое безопасность.docx"
 
 | You're the best!
 
@@ -495,7 +495,7 @@ setwd("testdir")
 file.create("mytest.R")
 ```
 
-[1] TRUE
+\[1\] TRUE
 
 | Great job!
 
@@ -505,7 +505,7 @@ file.create("mytest.R")
 ls()
 ```
 
-[1] "my_div" "my_sqrt" "old.dir" "x" "y" [6] "z"
+\[1\] "my_div" "my_sqrt" "old.dir" "x" "y" \[6\] "z"
 
 | Keep trying! Or, type info() for more options.
 
@@ -516,7 +516,7 @@ ls()
 list.files()
 ```
 
-[1] "mytest.R"
+\[1\] "mytest.R"
 
 | You are amazing!
 
@@ -526,7 +526,7 @@ list.files()
 file.exists("mytest.R")
 ```
 
-[1] TRUE
+\[1\] TRUE
 
 | You got it!
 
@@ -558,7 +558,7 @@ mytest.R 0 FALSE 666 2024-12-08 15:57:35 ctime atime exe mytest.R 2024-12-08 15:
 file.rename("mytest.R", "mytest2.R")
 ```
 
-[1] TRUE
+\[1\] TRUE
 
 | All that practice is paying off!
 
@@ -572,7 +572,7 @@ file.rename("mytest.R", "mytest2.R")
 file.copy("mytest2.R", "mytest3.R")
 ```
 
-[1] TRUE
+\[1\] TRUE
 
 | You got it!
 
@@ -586,7 +586,7 @@ file.copy("mytest2.R", "mytest3.R")
 file.path("mytest3.R")
 ```
 
-[1] "mytest3.R"
+\[1\] "mytest3.R"
 
 | That's a job well done!
 
@@ -596,7 +596,7 @@ file.path("mytest3.R")
 file.path("folder1", "folder2")
 ```
 
-[1] "folder1/folder2"
+\[1\] "folder1/folder2"
 
 | You are amazing!
 
@@ -679,7 +679,7 @@ setwd(old.dir)
 1:20
 ```
 
-[1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 [18] 18 19 20
+\[1\] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 \[18\] 18 19 20
 
 | Keep up the great work!
 
@@ -689,7 +689,7 @@ setwd(old.dir)
 pi:10
 ```
 
-[1] 3.141593 4.141593 5.141593 6.141593 7.141593 8.141593 [7] 9.141593
+\[1\] 3.141593 4.141593 5.141593 6.141593 7.141593 8.141593 \[7\] 9.141593
 
 | Keep working like that and you'll get there!
 
@@ -703,7 +703,7 @@ pi:10
 15:1
 ```
 
-[1] 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+\[1\] 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
 
 | Your dedication is inspiring!
 
@@ -739,7 +739,7 @@ pi:10
 seq(1,20)
 ```
 
-[1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 [18] 18 19 20
+\[1\] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 \[18\] 18 19 20
 
 | Nice work!
 
@@ -749,7 +749,7 @@ seq(1,20)
 seq(0,10, by=0.5)
 ```
 
-[1] 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 [11] 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 [21] 10.0
+\[1\] 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 \[11\] 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 \[21\] 10.0
 
 | You nailed it! Good job!
 
@@ -759,7 +759,7 @@ seq(0,10, by=0.5)
 seq(5, 10, length=30)
 ```
 
-[1] 5.000000 5.172414 5.344828 5.517241 5.689655 [6] 5.862069 6.034483 6.206897 6.379310 6.551724 [11] 6.724138 6.896552 7.068966 7.241379 7.413793 [16] 7.586207 7.758621 7.931034 8.103448 8.275862 [21] 8.448276 8.620690 8.793103 8.965517 9.137931 [26] 9.310345 9.482759 9.655172 9.827586 10.000000
+\[1\] 5.000000 5.172414 5.344828 5.517241 5.689655 \[6\] 5.862069 6.034483 6.206897 6.379310 6.551724 \[11\] 6.724138 6.896552 7.068966 7.241379 7.413793 \[16\] 7.586207 7.758621 7.931034 8.103448 8.275862 \[21\] 8.448276 8.620690 8.793103 8.965517 9.137931 \[26\] 9.310345 9.482759 9.655172 9.827586 10.000000
 
 | Not quite! Try again. Or, type info() for more
 | options.
@@ -781,7 +781,7 @@ my_seq <- seq(5, 10, length=30)
 length(my_seq)
 ```
 
-[1] 30
+\[1\] 30
 
 | All that hard work is paying off!
 
@@ -795,7 +795,7 @@ length(my_seq)
 1:length(my_seq)
 ```
 
-[1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 [18] 18 19 20 21 22 23 24 25 26 27 28 29 30
+\[1\] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 \[18\] 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 | You got it right!
 
@@ -805,7 +805,7 @@ length(my_seq)
 seq(along.with=my_seq)
 ```
 
-[1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 [18] 18 19 20 21 22 23 24 25 26 27 28 29 30
+\[1\] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 \[18\] 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 | Nice work!
 
@@ -815,7 +815,7 @@ seq(along.with=my_seq)
 seq_along(my_seq)
 ```
 
-[1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 [18] 18 19 20 21 22 23 24 25 26 27 28 29 30
+\[1\] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 \[18\] 18 19 20 21 22 23 24 25 26 27 28 29 30
 
 | Great job!
 
@@ -837,7 +837,7 @@ seq_along(my_seq)
 rep(0, times=40)
 ```
 
-[1] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 [27] 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+\[1\] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 \[27\] 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 
 | That's correct!
 
@@ -847,7 +847,7 @@ rep(0, times=40)
 rep(c(0,1,2), times=10)
 ```
 
-[1] 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 [27] 2 0 1 2
+\[1\] 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 2 0 1 \[27\] 2 0 1 2
 
 | You are really on a roll!
 
@@ -857,7 +857,7 @@ rep(c(0,1,2), times=10)
 rep(c(0,1,2), each=10)
 ```
 
-[1] 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 [27] 2 2 2 2
+\[1\] 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 \[27\] 2 2 2 2
 
 | Excellent work!
 
@@ -910,7 +910,7 @@ tf <- num_vect < 1
 tf
 ```
 
-[1] TRUE FALSE TRUE FALSE
+\[1\] TRUE FALSE TRUE FALSE
 
 | All that hard work is paying off!
 
@@ -928,7 +928,7 @@ tf
 num_vect >=6
 ```
 
-[1] FALSE TRUE FALSE TRUE
+\[1\] FALSE TRUE FALSE TRUE
 
 | Excellent work!
 
@@ -1001,7 +1001,7 @@ my_char <- c("My", "name", "is")
 my_char
 ```
 
-[1] "My" "name" "is"
+\[1\] "My" "name" "is"
 
 | You are doing so well!
 
@@ -1015,7 +1015,7 @@ my_char
 paste(my_char, collapsw = " ")
 ```
 
-[1] "My " "name " "is "
+\[1\] "My " "name " "is "
 
 | That's not exactly what I'm looking for. Try again.
 | Or, type info() for more options.
@@ -1030,7 +1030,7 @@ paste(my_char, collapsw = " ")
 paste(my_char, collapse = " ")
 ```
 
-[1] "My name is"
+\[1\] "My name is"
 
 | Your dedication is inspiring!
 
@@ -1056,7 +1056,7 @@ my_name = c(my_char, "Dan")
 my_name
 ```
 
-[1] "My" "name" "is" "Dan"
+\[1\] "My" "name" "is" "Dan"
 
 | You nailed it! Good job!
 
@@ -1066,7 +1066,7 @@ my_name
 paste(my_name, " ")
 ```
 
-[1] "My " "name " "is " "Dan "
+\[1\] "My " "name " "is " "Dan "
 
 | Not quite, but you're learning! Try again. Or, type
 | info() for more options.
@@ -1078,7 +1078,7 @@ paste(my_name, " ")
 paste(my_name, collapse=" ")
 ```
 
-[1] "My name is Dan"
+\[1\] "My name is Dan"
 
 | Excellent work!
 
@@ -1092,7 +1092,7 @@ paste(my_name, collapse=" ")
 paste("Hello", "world!", sep = " ")
 ```
 
-[1] "Hello world!"
+\[1\] "Hello world!"
 
 | You got it!
 
@@ -1102,7 +1102,7 @@ paste("Hello", "world!", sep = " ")
 paste(1:3, c("X", "Y", "Z"), sep="")
 ```
 
-[1] "1X" "2Y" "3Z"
+\[1\] "1X" "2Y" "3Z"
 
 | That's a job well done!
 
@@ -1116,7 +1116,7 @@ paste(1:3, c("X", "Y", "Z"), sep="")
 paste(LETTERS, 1:4, sep = "-")
 ```
 
-[1] "A-1" "B-2" "C-3" "D-4" "E-1" "F-2" "G-3" "H-4" [9] "I-1" "J-2" "K-3" "L-4" "M-1" "N-2" "O-3" "P-4" [17] "Q-1" "R-2" "S-3" "T-4" "U-1" "V-2" "W-3" "X-4" [25] "Y-1" "Z-2"
+\[1\] "A-1" "B-2" "C-3" "D-4" "E-1" "F-2" "G-3" "H-4" \[9\] "I-1" "J-2" "K-3" "L-4" "M-1" "N-2" "O-3" "P-4" \[17\] "Q-1" "R-2" "S-3" "T-4" "U-1" "V-2" "W-3" "X-4" \[25\] "Y-1" "Z-2"
 
 | That's correct!
 
@@ -1162,7 +1162,7 @@ x <- c(44, NA, 5, NA)
 x * 3
 ```
 
-[1] 132 NA 15 NA
+\[1\] 132 NA 15 NA
 
 | All that practice is paying off!
 
@@ -1220,7 +1220,7 @@ my_na <- is.na(my_data)
 my_na
 ```
 
-[1] TRUE FALSE FALSE TRUE TRUE TRUE TRUE FALSE [9] FALSE FALSE FALSE FALSE FALSE TRUE TRUE TRUE [17] FALSE TRUE FALSE TRUE TRUE TRUE FALSE FALSE [25] FALSE FALSE FALSE FALSE TRUE TRUE TRUE FALSE [33] FALSE FALSE TRUE TRUE FALSE FALSE FALSE FALSE [41] TRUE FALSE TRUE FALSE FALSE TRUE TRUE FALSE [49] TRUE FALSE TRUE TRUE TRUE TRUE TRUE FALSE [57] TRUE TRUE FALSE TRUE TRUE TRUE TRUE TRUE [65] TRUE FALSE FALSE FALSE TRUE TRUE TRUE TRUE [73] FALSE TRUE TRUE TRUE TRUE FALSE TRUE TRUE [81] TRUE FALSE TRUE FALSE FALSE FALSE TRUE FALSE [89] FALSE FALSE TRUE TRUE TRUE FALSE TRUE TRUE [97] FALSE FALSE FALSE TRUE
+\[1\] TRUE FALSE FALSE TRUE TRUE TRUE TRUE FALSE \[9\] FALSE FALSE FALSE FALSE FALSE TRUE TRUE TRUE \[17\] FALSE TRUE FALSE TRUE TRUE TRUE FALSE FALSE \[25\] FALSE FALSE FALSE FALSE TRUE TRUE TRUE FALSE \[33\] FALSE FALSE TRUE TRUE FALSE FALSE FALSE FALSE \[41\] TRUE FALSE TRUE FALSE FALSE TRUE TRUE FALSE \[49\] TRUE FALSE TRUE TRUE TRUE TRUE TRUE FALSE \[57\] TRUE TRUE FALSE TRUE TRUE TRUE TRUE TRUE \[65\] TRUE FALSE FALSE FALSE TRUE TRUE TRUE TRUE \[73\] FALSE TRUE TRUE TRUE TRUE FALSE TRUE TRUE \[81\] TRUE FALSE TRUE FALSE FALSE FALSE TRUE FALSE \[89\] FALSE FALSE TRUE TRUE TRUE FALSE TRUE TRUE \[97\] FALSE FALSE FALSE TRUE
 
 | You got it right!
 
@@ -1234,7 +1234,7 @@ my_na
 my_data == NA
 ```
 
-[1] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA [18] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA [35] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA [52] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA [69] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA [86] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
+\[1\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA \[18\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA \[35\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA \[52\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA \[69\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA \[86\] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
 
 | Keep up the great work!
 
@@ -1260,7 +1260,7 @@ my_data == NA
 sum(my_na)
 ```
 
-[1] 54
+\[1\] 54
 
 | That's a job well done!
 
@@ -1270,7 +1270,7 @@ sum(my_na)
 my_data
 ```
 
-[1] NA 0.09143573 -0.38185606 NA [5] NA NA NA 0.08813614 [9] -0.22721632 -0.45888334 0.72986754 1.08737105 [13] 0.88810972 NA NA NA [17] -0.89543795 NA -0.32172503 NA [21] NA NA -0.02465331 -0.05902287 [25] -1.57328663 1.51205891 -0.26567508 0.23266229 [29] NA NA NA -0.73559857 [33] -0.78438183 0.40893324 NA NA [37] -1.27875153 -0.09862020 0.06144689 -0.12208689 [41] NA 2.10417076 NA 0.52657168 [45] -2.15857389 NA NA 0.04008549 [49] NA 0.57997150 NA NA [53] NA NA NA -1.23372732 [57] NA NA -1.96742448 NA [61] NA NA NA NA [65] NA -1.13322820 -1.00819483 1.02019361 [69] NA NA NA NA [73] -0.11177279 NA NA NA [77] NA -1.73232215 NA NA [81] NA -0.72976560 NA -0.92766263 [85] 1.43602124 1.04757993 NA -0.38119040 [89] 0.71470795 -0.16632678 NA NA [93] NA 0.38165210 NA NA [97] -1.86460462 -0.02420383 -0.95786832 NA
+\[1\] NA 0.09143573 -0.38185606 NA \[5\] NA NA NA 0.08813614 \[9\] -0.22721632 -0.45888334 0.72986754 1.08737105 \[13\] 0.88810972 NA NA NA \[17\] -0.89543795 NA -0.32172503 NA \[21\] NA NA -0.02465331 -0.05902287 \[25\] -1.57328663 1.51205891 -0.26567508 0.23266229 \[29\] NA NA NA -0.73559857 \[33\] -0.78438183 0.40893324 NA NA \[37\] -1.27875153 -0.09862020 0.06144689 -0.12208689 \[41\] NA 2.10417076 NA 0.52657168 \[45\] -2.15857389 NA NA 0.04008549 \[49\] NA 0.57997150 NA NA \[53\] NA NA NA -1.23372732 \[57\] NA NA -1.96742448 NA \[61\] NA NA NA NA \[65\] NA -1.13322820 -1.00819483 1.02019361 \[69\] NA NA NA NA \[73\] -0.11177279 NA NA NA \[77\] NA -1.73232215 NA NA \[81\] NA -0.72976560 NA -0.92766263 \[85\] 1.43602124 1.04757993 NA -0.38119040 \[89\] 0.71470795 -0.16632678 NA NA \[93\] NA 0.38165210 NA NA \[97\] -1.86460462 -0.02420383 -0.95786832 NA
 
 | You're the best!
 
@@ -1280,7 +1280,7 @@ my_data
 0/0
 ```
 
-[1] NaN
+\[1\] NaN
 
 | Your dedication is inspiring!
 
@@ -1290,7 +1290,7 @@ my_data
 Inf*Inf
 ```
 
-[1] Inf
+\[1\] Inf
 
 | Keep trying! Or, type info() for more options.
 
@@ -1300,7 +1300,7 @@ Inf*Inf
 Inf-Inf
 ```
 
-[1] NaN
+\[1\] NaN
 
 | You got it right!
 
